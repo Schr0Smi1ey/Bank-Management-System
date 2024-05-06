@@ -1,4 +1,4 @@
-# **Banking System - Python OOP Project**
+# **Bank Management System - Python OOP Project**
 
 ## **Table of Contents**
 1. [Description](#description)
