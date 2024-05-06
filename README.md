@@ -1,8 +1,26 @@
 # **Banking System - Python OOP Project**
 
+## **Table of Contents**
+1. [Description](#description)
+2. [Features](#features)
+3. [Screenshots](#screenshots)
+4. [Technologies Used](#technologies-used)
+5. [Concept](#concept)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Contribution](#contribution)
+9. [Acknowledgments](#acknowledgments)
+10. [Message](#message)
+11. [Contact](#contact)
+12. [Connect](#connect)
+
+
+
+
 ## **Description**
 
 This project presents a fundamental bank management system operated via a Command Line Interface, leveraging Python programming and Object-Oriented Programming (OOP) concepts. It facilitates essential banking operations where users can create accounts, deposit money, withdraw money, transfer funds, and take loans. Administrators have additional privileges such as creating user accounts, deleting user accounts, and managing bank operations.
+
 
 ## **Features**
 - **User Functionalities**:
